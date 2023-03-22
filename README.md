@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amber Ahmed</h1>
 <h3 align="center">I’m interested in coding</h3>
-
+<h3 align="center">I’m a Full Stack Web Developer</h3>
+<h3 align="center">Utilizing the MERN Stack Technology</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amber-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="amber-ahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amber-ahmed" alt="amber-ahmed" /></a> </p>
 
-- 🌱 I’m currently learning and DSA Full Stack Web Development **html, css, javascript, nodejs, express, react,mongodb etc...**
+- 🌱 I’m currently learning and DSA**html, css, javascript, nodejs, express, react,mongodb etc...**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/amber-ahmed-62a3a01ba/](https://www.linkedin.com/in/amber-ahmed-62a3a01ba/)
 
