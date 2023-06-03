@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning and DSA  **react native,type script,nextjs, etc...**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/amber-ahmed-62a3a01ba/](https://www.linkedin.com/in/amber-ahmed-62a3a01ba/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/amberahmed987/](https://www.linkedin.com/in/amberahmed987/)
 
 - 📫 How to reach me **linkedin**
 
